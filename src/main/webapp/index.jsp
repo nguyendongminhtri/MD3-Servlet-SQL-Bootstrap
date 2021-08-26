@@ -1,16 +1,13 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: Admin
-  Date: 8/20/2021
-  Time: 3:25 PM
-  To change this template use File | Settings | File Templates.
---%>
+
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+<%--  Có 2 cách để điều hướng 1 là gọi thẳng tới file jsp 2 là thông qua doGet để lấy form sử dụng disparcher--%>
+  <a href="form-login/login.jsp">Login</a>
+  <a href="/login">Login 2</a>
+  HOME
   </body>
 </html>

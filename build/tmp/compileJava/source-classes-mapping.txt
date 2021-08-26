@@ -1,18 +1,28 @@
 chinhanh/service/songservice/ISongService.java
  chinhanh.service.songservice.ISongService
+chinhanh/service/userservice/IUserService.java
+ chinhanh.service.userservice.IUserService
+chinhanh/service/userservice/UserServiceImpl.java
+ chinhanh.service.userservice.UserServiceImpl
 chinhanh/service/categoryservice/ICategoryService.java
  chinhanh.service.categoryservice.ICategoryService
-chinhanh/service/IParentService.java
- chinhanh.service.IParentService
 chinhanh/model/Category.java
  chinhanh.model.Category
-chinhanh/service/songservice/SongServiceImpl.java
- chinhanh.service.songservice.SongServiceImpl
 chinhanh/config/ConnectMySQL.java
  chinhanh.config.ConnectMySQL
-chinhanh/service/categoryservice/CategoryServiceImpl.java
- chinhanh.service.categoryservice.CategoryServiceImpl
+chinhanh/controller/LoginController.java
+ chinhanh.controller.LoginController
 chinhanh/model/Song.java
  chinhanh.model.Song
+chinhanh/service/categoryservice/CategoryServiceImpl.java
+ chinhanh.service.categoryservice.CategoryServiceImpl
+chinhanh/model/Users.java
+ chinhanh.model.Users
+chinhanh/service/IParentService.java
+ chinhanh.service.IParentService
+chinhanh/service/songservice/SongServiceImpl.java
+ chinhanh.service.songservice.SongServiceImpl
+chinhanh/controller/LogOutController.java
+ chinhanh.controller.LogOutController
 chinhanh/controller/CategoryController.java
  chinhanh.controller.CategoryController

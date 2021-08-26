@@ -18,6 +18,7 @@
 <body>
 <h1>Category</h1>
 <a href="/category?action=create">Create Category</a>
+
 <table class="table">
     <thead>
     <tr>
